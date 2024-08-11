@@ -1,11 +1,11 @@
-# Barcode-QR-and-Vehicle-Detection-using-YOLO
+# Barcode, QR, and Vehicle Detection using YOLOv8
 
-This project implements a web application for detecting barcodes, QR codes, and vehicles in images using YOLO models. The models have been trained separately using the Ultralytics YOLO framework.
+This project implements a web application for detecting barcodes, QR codes, and vehicles in images using YOLOv8 models. The models have been trained separately using the Ultralytics YOLO framework.
 
 ## Models
 
-- **Vehicle Detection (YOLO):** Trained on a dataset for top-view vehicle detection.
-- **Barcode-QR Detection (YOLO):** Trained on a dataset for detecting barcodes and QR codes.
+- **Vehicle Detection (YOLOv8):** Trained on a dataset for top-view vehicle detection.
+- **Barcode-QR Detection (YOLOv8):** Trained on a dataset for detecting barcodes and QR codes.
 
 ## Features
 
@@ -25,7 +25,7 @@ This project implements a web application for detecting barcodes, QR codes, and 
 
 1. Clone the repository:
    
-   git clone https://github.com/Kushagra077/Barcoded-QR-Vehicle-Detection-using-YOLO.git
+   git clone https://github.com/Kushagra077/Barcoded-QR-Vehicle-Detection-using-YOLOv8.git
 
 2. Install the required Python packages:
 
