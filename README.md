@@ -1,4 +1,4 @@
-# Barcode, QR, and Vehicle Detection using YOLOv8
+# Barcode, QR, and Vehicle Detection using YOLO
 
 This project implements a web application for detecting barcodes, QR codes, and vehicles in images using YOLOv8 models. The models have been trained separately using the Ultralytics YOLO framework.
 
