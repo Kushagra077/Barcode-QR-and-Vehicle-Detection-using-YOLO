@@ -25,13 +25,13 @@ This project implements a web application for detecting barcodes, QR codes, and 
 
 1. Clone the repository:
    
-   git clone https://github.com/Kushagra077/Barcoded-QR-Vehicle-Detection-using-YOLOv8.git
+   git clone https://github.com/Kushagra077/Barcode-QR-and-Vehicle-Detection-using-YOLO.git
 
 2. Install the required Python packages:
 
    pip install -r requirements.txt
    
-3. Download the pre-trained YOLO model weights (vehicle.pt and barcode.pt) and place them in the root directory of the project.
+3. Download the pre-trained YOLO model weights (vehicle.pt and barcode.pt) and place them in the project's root directory.
 
 4. Run the Streamlit app:
   streamlit run main.py
