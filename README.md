@@ -36,6 +36,6 @@ This project implements a web application for detecting barcodes, QR codes, and 
 4. Run the Streamlit app:
   streamlit run main.py
 
-
+check my webapp here : https://yolo-barcode-vehicle-detection.streamlit.app/
 
 
