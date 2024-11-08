@@ -2,7 +2,7 @@ import os
 import requests
 
 # Your Hugging Face token
-access_token = "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"
+access_token = "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"
 
 # List of URLs and corresponding filenames
 models = {
